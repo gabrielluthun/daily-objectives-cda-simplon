@@ -2,10 +2,9 @@
 
 ### Mercredi 18/09/2024 :
 
-- [ ] Faire le wargame bandit jusqu'au niveau 5 (anglais)
+- [x] Faire le wargame bandit jusqu'au niveau 5 (anglais)
 
 Seulement si le wargame bandit est au niveau 5 minimum :
-
 #### Git
 
 - [ ] Création de compte + configuration Github
