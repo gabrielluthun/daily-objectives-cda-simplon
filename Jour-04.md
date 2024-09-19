@@ -11,7 +11,7 @@
 
   - [x] Créer son premier repo Github (local + origin)
 
-- [ ] Découverte de Gitflow
+- [x] Découverte de Gitflow
 
 ### Markdown :
 
