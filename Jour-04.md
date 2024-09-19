@@ -9,7 +9,7 @@
 
 - [x] Découverte de Github CLI `gh`
 
-  - [ ] Créer son premier repo Github (local + origin)
+  - [x] Créer son premier repo Github (local + origin)
 
 - [ ] Découverte de Gitflow
 
