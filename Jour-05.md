@@ -2,7 +2,7 @@
 
 ### Vendredi 20/09/2024 :
 
-- [ ] Rattrapage de la semaine / Finalisation des daily objectives de la semaine / Travailler sur les notions mal comprises
+- [x] Rattrapage de la semaine / Finalisation des daily objectives de la semaine / Travailler sur les notions mal comprises
 
 ### Git
 
@@ -11,7 +11,7 @@
 - [ ] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
 - [ ] Comprendre l'utilité et le fonctionnement de `git stash`
 - [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
-- [ ] Découverte de LazyGit
+- [ ] Découverte de LazyGit 
   - [ ] Installation et configuration
   - [ ] Intégration dans son editeur / workflow
   - [ ] Faire le tour du propriétaire
