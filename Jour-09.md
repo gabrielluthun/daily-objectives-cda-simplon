@@ -4,19 +4,19 @@
 
 ### Découvertes des méthodologies
 
-- [ ] Comprendre pourquoi on met en place une méthodologie de projet
-- [ ] Méthodologies traditionnelles
-- [ ] Agilité
-  - [ ] Quels sont les grands principes ?
-  - [ ] Découvrir les principales méthodes Agile
-- [ ] Découverte de la méthodologie SCRUM
-  - [ ] Les rôles de chacun
+- [x] Comprendre pourquoi on met en place une méthodologie de projet
+- [x] Méthodologies traditionnelles
+- [x] Agilité
+  - [x] Quels sont les grands principes ?
+  - [x] Découvrir les principales méthodes Agile
+- [x] Découverte de la méthodologie SCRUM
+  - [x] Les rôles de chacun
   - [ ] les rituels à appliquer
   - [ ] pourquoi fait-on du SCRUM ?
-- [ ] Découverte de la méthode KANBAN
-  - [ ] Découvrir les objectifs
-  - [ ] Comprendre les règles qui s'appliquent ?
-- [ ] Savoir quelle méthode utilisée à quel moment
+- [x] Découverte de la méthode KANBAN
+  - [x] Découvrir les objectifs
+  - [x] Comprendre les règles qui s'appliquent ?
+- [ ] Savoir quelle méthode utiliser à quel moment
 - [ ] Comprendre le vocabulaire de la méthode
   - [ ] Ce qu'est une User Story et comment la construit-on
   - [ ] Ce qu'est la backlog
