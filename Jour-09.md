@@ -10,7 +10,7 @@
   - [x] Quels sont les grands principes ?
   - [x] Découvrir les principales méthodes Agile
 - [x] Découverte de la méthodologie SCRUM
-  - [xx] Les rôles de chacun
+  - [x] Les rôles de chacun
   - [x] les rituels à appliquer
   - [x] pourquoi fait-on du SCRUM ?
 - [x] Découverte de la méthode KANBAN
