@@ -4,20 +4,20 @@
 
 ### Introduction à PostgreSQL et DCL
 
-- [ ] Découverte de PostgreSQL
-  - [ ] Identifier les différences entre MySQL et PostgreSQL
-  - [ ] Savoir Expliquer les avantages de PostgreSQL
-  - [ ] Savoir Choisir les cas d'usage adaptés à PostgreSQL
+- [x] Découverte de PostgreSQL
+  - [x] Identifier les différences entre MySQL et PostgreSQL (Postgre stocke les données sous forme d'objets, donc de propriétés)
+  - [x] Savoir Expliquer les avantages de PostgreSQL (meilleure prise en charge des données volumineuses/complexes, )
+  - [x] Savoir Choisir les cas d'usage adaptés à PostgreSQL
 
 - [ ] Installation et Configuration
-  - [ ] Installation de PostgreSQL sur la machine
-  - [ ] Installation de pgAdmin 4
-  - [ ] Installation de pgcli
+  - [x] Installation de PostgreSQL sur la machine
+  - [x] Installation de pgAdmin 4
+  - [x] Installation de pgcli
   - [ ] Configuration initiale
-    - [ ] Ports
-    - [ ] Mot de passe postgres
-    - [ ] Création du premier utilisateur
-  - [ ] Test de la connexion
+    - [x] Ports
+    - [x] Mot de passe postgres
+    - [x] Création du premier utilisateur
+  - [x] Test de la connexion
 
 - [ ] Data Control Language (DCL)
   - [ ] Gestion des utilisateurs
