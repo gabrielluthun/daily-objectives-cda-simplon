@@ -13,18 +13,20 @@
   - [x] Installation de PostgreSQL sur la machine
   - [x] Installation de pgAdmin 4
   - [x] Installation de pgcli
-  - [ ] Configuration initiale
+  - [x] Configuration initiale
     - [x] Ports
     - [x] Mot de passe postgres
     - [x] Création du premier utilisateur
   - [x] Test de la connexion
 
 - [ ] Data Control Language (DCL)
-  - [ ] Gestion des utilisateurs
-    - [ ] Savoir construire des requêtes CREATE USER
-    - [ ] Savoir modifier des utilisateurs avec ALTER USER
+  - [x] Gestion des utilisateurs
+    - [x] Savoir construire des requêtes CREATE USER
+    - [x] Savoir modifier des utilisateurs avec ALTER USER
     - [ ] Savoir supprimer des utilisateurs avec DROP USER
     - [ ] Savoir utiliser les rôles PostgreSQL
+    (Rôle = un ensemble de permissions
+    User = entité avec un rôle de login)
   
   - [ ] Gestion des droits
     - [ ] Savoir attribuer des privilèges avec GRANT
