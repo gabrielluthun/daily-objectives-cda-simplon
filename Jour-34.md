@@ -4,23 +4,23 @@
 
 ### SQL - DDL et DML
 
-- [ ] Data Definition Language (DDL)
-  - [ ] Savoir créer avec CREATE
-    - [ ] Base de données
-    - [ ] Table
-    - [ ] Index
-  - [ ] Savoir modifier avec ALTER
-    - [ ] Savoir ajouter une colonne
-    - [ ] Savoir modifier une colonne
-    - [ ] Savoir supprimer une colonne
-  - [ ] Savoir utiliser DROP et TRUNCATE
-  - [ ] Savoir définir les contraintes
-    - [ ] PRIMARY KEY
-    - [ ] FOREIGN KEY
-    - [ ] UNIQUE
-    - [ ] NOT NULL
-    - [ ] DEFAULT
-    - [ ] CHECK
+- [x] Data Definition Language (DDL)
+  - [x] Savoir créer avec CREATE
+    - [x] Base de données
+    - [x] Table
+    - [x] Index
+  - [x] Savoir modifier avec ALTER
+    - [x] Savoir ajouter une colonne
+    - [x] Savoir modifier une colonne
+    - [x] Savoir supprimer une colonne
+  - [x] Savoir utiliser DROP et TRUNCATE
+  - [x] Savoir définir les contraintes
+    - [x] PRIMARY KEY
+    - [x] FOREIGN KEY
+    - [x] UNIQUE
+    - [x] NOT NULL
+    - [x] DEFAULT
+    - [x] CHECK
 
 - [ ] Data Manipulation Language (DML)
   - [ ] Savoir insérer des données avec INSERT
