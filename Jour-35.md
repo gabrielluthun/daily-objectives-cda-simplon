@@ -19,10 +19,10 @@
     - [x] Savoir utiliser LIKE et ses wildcards
     - [x] Savoir gérer les NULL
 
-- [ ] Organisation des résultats
-  - [ ] Savoir trier avec ORDER BY
-    - [ ] ASC / DESC
-    - [ ] Tri multi-colonnes
+- [x] Organisation des résultats
+  - [x] Savoir trier avec ORDER BY
+    - [x] ASC / DESC
+    - [x] Tri multi-colonnes
   
-  - [ ] Savoir utiliser DISTINCT
-  - [ ] Savoir utiliser LIMIT et OFFSET
+  - [x] Savoir utiliser DISTINCT
+  - [x] Savoir utiliser LIMIT et OFFSET
