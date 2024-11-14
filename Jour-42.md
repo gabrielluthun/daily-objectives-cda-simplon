@@ -4,16 +4,16 @@
 
 ### MERISE - Les cardinalités et les contraintes
 
-- [ ] Les cardinalités
-  - [ ] Savoir lire les cardinalités
-  - [ ] Savoir écrire les cardinalités
-  - [ ] Savoir valider les cardinalités
+- [x] Les cardinalités
+  - [x] Savoir lire les cardinalités
+  - [x] Savoir écrire les cardinalités
+  - [x] Savoir valider les cardinalités
 
-- [ ] Les différents types de contraintes
-  - [ ] Savoir définir une contrainte d'intégrité
-  - [ ] Savoir différencier les types de contraintes :
-    - [ ] Contraintes d'intégrité fonctionnelle
-    - [ ] Contraintes d'intégrité physique
+- [x] Les différents types de contraintes
+  - [x] Savoir définir une contrainte d'intégrité
+  - [x] Savoir différencier les types de contraintes :
+    - [x] Contraintes d'intégrité fonctionnelle
+    - [x] Contraintes d'intégrité physique
 
 - [ ] Les contraintes d'intégrité fonctionnelle (CIF)
   - [ ] Savoir identifier une CIF
