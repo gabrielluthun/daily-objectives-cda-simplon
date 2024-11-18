@@ -4,12 +4,12 @@
 
 ### MERISE - Le MLD (Modèle Logique de Données)
 
-- [ ] Passage du MCD au MLD
-  - [ ] Savoir appliquer les règles de passage
-  - [ ] Savoir gérer les relations 1:1
-  - [ ] Savoir gérer les relations 1:N
-  - [ ] Savoir gérer les relations N:M
-  - [ ] Savoir gérer les contraintes d'intégrité
-    - [ ] Clés primaires
-    - [ ] Clés étrangères
-    - [ ] Contraintes d'unicité
+- [x] Passage du MCD au MLD
+  - [x] Savoir appliquer les règles de passage
+  - [x] Savoir gérer les relations 1:1
+  - [x] Savoir gérer les relations 1:N
+  - [x] Savoir gérer les relations N:M
+  - [x] Savoir gérer les contraintes d'intégrité
+    - [x] Clés primaires
+    - [x] Clés étrangères
+    - [x] Contraintes d'unicité
