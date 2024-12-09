@@ -15,6 +15,6 @@
   - [x] Constructeurs
   - [x] Encapsulation et modificateurs d'accès (public, private, protected)
 
-- [ ] Exercices pratiques
-  - [ ] Créer une classe simple avec des attributs et des méthodes
-  - [ ] Instancier des objets et appeler des méthodes 
+- [x] Exercices pratiques
+  - [x] Créer une classe simple avec des attributs et des méthodes
+  - [x] Instancier des objets et appeler des méthodes 
