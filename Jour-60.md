@@ -4,16 +4,15 @@
 
 ### Programmation Orientée Objet - Abstraction et erreurs
 
-- [ ] Découverte de l'Abstraction
-  - [ ] Bilan sur l'héritage
-  - [ ] Notion de classes abstraites
-  - [ ] Notion d'interface
-- [ ] Gestion des erreurs
-  - [ ] Utilisation des exceptions
-  - [ ] Mot clé finally
-  - [ ] Propagation des exceptions
-  - [ ] Création d'exceptions personnalisées
-- [ ] Initiation aux bonnes pratiques
+- [x] Découverte de l'Abstraction
+  - [x] Bilan sur l'héritage
+  - [x] Notion de classes abstraites
+  - [x] Notion d'interface
+- [x] Gestion des erreurs
+  - [x] Utilisation des exceptions
+  - [x] Mot clé finally
+  - [x] Propagation des exceptions
+  - [x] Création d'exceptions personnalisées
+- [x] Initiation aux bonnes pratiques
   - [ ] Découverte du principe SOLID
-- [ ] Exercices pratiques
   
