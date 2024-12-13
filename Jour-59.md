@@ -1,16 +1,16 @@
-# Objectifs journaliers
+x# Objectifs journaliers
 
 ## Lundi 09/12/2024 :
 
 ### Programmation Orientée Objet - Concepts avancés
 
-- [ ] Étudier le concept d'héritage
-  - [ ] Fonctionnement du mode parent/enfant
-  - [ ] Utilisation du mot clé super
-  - [ ] Fonctionnalités étendues entre un parent et un enfant
-- [ ] Analyse du concept de polymorphisme
-  - [ ] Méthode commune
-  - [ ] Surcharge
+- [x] Étudier le concept d'héritage
+  - [x] Fonctionnement du mode parent/enfant
+  - [x] Utilisation du mot clé super
+  - [x] Fonctionnalités étendues entre un parent et un enfant
+- [x] Analyse du concept de polymorphisme
+  - [x] Méthode commune
+  - [x] Surcharge
 - [ ] Apprentissage des relations possibles entre les classes
   - [ ] Association
   - [ ] Agrégation

@@ -14,5 +14,5 @@
   - [x] Propagation des exceptions
   - [x] Création d'exceptions personnalisées
 - [x] Initiation aux bonnes pratiques
-  - [ ] Découverte du principe SOLID
+  - [x] Découverte du principe SOLID
   
