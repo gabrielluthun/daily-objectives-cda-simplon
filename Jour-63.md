@@ -6,24 +6,24 @@
 
 - [x] Faire les objectifs de la veille
 
-- [ ] Découverte avancé des cas d'utilisation (les relations)
-  - [ ] Comprendre la notion d'association
-  - [ ] Comprendre et représenter le terme d'inclusion
-  - [ ] Comprendre et représenter le terme d'extension
-  - [ ] Comprendre et représenter la généralisation
+- [x] Découverte avancé des cas d'utilisation (les relations)
+  - [x] Comprendre la notion d'association
+  - [x] Comprendre et représenter le terme d'inclusion
+  - [x] Comprendre et représenter le terme d'extension
+  - [x] Comprendre et représenter la généralisation
   
-- [ ] Découverte du diagramme de classes
-  - [ ] Etude générale du diagramme de classes
-    - [ ] Objectifs
-	- [ ] Dans quels cas est-il utilisé ?
-  - [ ] Etudier la représentation d'une classes
-    - [ ] Son formalisme
-	- [ ] Les attributs
-	- [ ] Les méthodes
-	- [ ] L'encapsulation
-  - [ ] Etudier les différences avec le MCD de la méthode MERISE
+- [x] Découverte du diagramme de classes
+  - [x] Etude générale du diagramme de classes
+    - [x] Objectifs
+	- [x] Dans quels cas est-il utilisé ?
+  - [x] Etudier la représentation d'une classes
+    - [x] Son formalisme
+	- [x] Les attributs
+	- [x] Les méthodes
+	- [x] L'encapsulation
+  - [x] Etudier les différences avec le MCD de la méthode MERISE
   
 - [ ] Cas pratique
-  - [ ] Réaliser le diagramme de cas d'utilisation d'une société de réservation de taxis
+  - [x] Réaliser le diagramme de cas d'utilisation d'une société de réservation de taxis (réalisé en groupe)
   - [ ] Réaliser le diagramme de classes d'une bibliothèque
   

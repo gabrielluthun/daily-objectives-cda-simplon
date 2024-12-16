@@ -7,11 +7,11 @@
 - [ ] Finir les objectifs de la veille
 
 - [ ] Approfondir les connaissances sur le diagramme de classes 
-  - [ ] Comprendre la notion d'association
-  - [ ] Etudier les différentes multiplicités et leur signification
-  - [ ] Comprendre l'agrégation
-  - [ ] Comprendre la composition
-  - [ ] Etudier les différences entre les 2
+  - [x] Comprendre la notion d'association
+  - [x] Etudier les différentes multiplicités et leur signification
+  - [x] Comprendre l'agrégation
+  - [x] Comprendre la composition
+  - [x] Etudier les différences entre les 2
   - [ ] Intégrer les packages
   
 - [ ] Comprendre l'héritage
