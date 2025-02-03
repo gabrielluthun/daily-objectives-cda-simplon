@@ -8,33 +8,33 @@ Ressources :
 - [Formation GitHub Actions](https://github.com/HachemiH/formation-github-actions)
 - [Formation Docker](https://github.com/HachemiH/formation-docker)
 
-- [ ] Configuration du déploiement
-  - [ ] Préparation du VPS
-    - [ ] Installation de Docker
-    - [ ] Configuration de l'utilisateur de déploiement
-    - [ ] Configuration des clés SSH
-  - [ ] Configuration des secrets de déploiement
-    - [ ] SSH_HOST
-    - [ ] SSH_USERNAME
-    - [ ] SSH_PRIVATE_KEY
+- [x] Configuration du déploiement
+  - [x] Préparation du VPS
+    - [x] Installation de Docker
+    - [x] Configuration de l'utilisateur de déploiement
+    - [x] Configuration des clés SSH
+  - [x] Configuration des secrets de déploiement
+    - [x] SSH_HOST
+    - [x] SSH_USERNAME
+    - [x] SSH_PRIVATE_KEY
 
-- [ ] Mise en place du workflow de déploiement
-  - [ ] Création du workflow de déploiement
-    - [ ] Configuration des triggers
-    - [ ] Configuration des environnements
-    - [ ] Scripts de déploiement
-  - [ ] Configuration des variables d'environnement
-    - [ ] Production
-    - [ ] Staging
+- [x] Mise en place du workflow de déploiement
+  - [x] Création du workflow de déploiement
+    - [x] Configuration des triggers
+    - [x] Configuration des environnements
+    - [x] Scripts de déploiement
+  - [x] Configuration des variables d'environnement
+    - [x] Production
+    - [x] Staging
 
-- [ ] Tests de déploiement
-  - [ ] Test du déploiement en staging
-  - [ ] Vérification des logs
-  - [ ] Validation du déploiement
-  - [ ] Test de l'application déployée
+- [x] Tests de déploiement
+  - [x] Test du déploiement en staging
+  - [x] Vérification des logs
+  - [x] Validation du déploiement
+  - [x] Test de l'application déployée
 
-- [ ] Documentation
-  - [ ] Documentation du processus CI/CD
-  - [ ] Documentation des workflows
-  - [ ] Guide de déploiement
-  - [ ] Guide de maintenance 
+- [x] Documentation
+  - [x] Documentation du processus CI/CD
+  - [x] Documentation des workflows
+  - [x] Guide de déploiement
+  - [x] Guide de maintenance 

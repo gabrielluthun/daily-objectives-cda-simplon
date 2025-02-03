@@ -6,27 +6,27 @@
 
 Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
 
-- [ ] Gestion du stockage Docker
-  - [ ] Comprendre les différents types de stockage
-    - [ ] Volumes Docker
-    - [ ] Bind Mounts
-    - [ ] tmpfs mounts
-  - [ ] Créer et gérer des volumes
-  - [ ] Partager des données entre conteneurs
+- [x] Gestion du stockage Docker
+  - [x] Comprendre les différents types de stockage
+    - [x] Volumes Docker
+    - [x] Bind Mounts
+    - [x] tmpfs mounts
+  - [x] Créer et gérer des volumes
+  - [x] Partager des données entre conteneurs
 
-- [ ] Réseautage Docker
-  - [ ] Comprendre les réseaux Docker par défaut
-  - [ ] Créer des réseaux personnalisés
-  - [ ] Connecter des conteneurs
-  - [ ] Gérer la communication inter-conteneurs
+- [x] Réseautage Docker
+  - [x] Comprendre les réseaux Docker par défaut
+  - [x] Créer des réseaux personnalisés
+  - [x] Connecter des conteneurs
+  - [x] Gérer la communication inter-conteneurs
 
-- [ ] Introduction à Docker Compose
-  - [ ] Comprendre l'utilité de Docker Compose
-  - [ ] Structure du fichier docker-compose.yml
-  - [ ] Commandes de base
-    - [ ] docker-compose up/down
-    - [ ] docker-compose ps
-    - [ ] docker-compose logs
+- [x] Introduction à Docker Compose
+  - [x] Comprendre l'utilité de Docker Compose
+  - [x] Structure du fichier docker-compose.yml
+  - [x] Commandes de base
+    - [x] docker-compose up/down
+    - [x] docker-compose ps
+    - [x] docker-compose logs
   
 - [ ] Travaux Pratiques
   - [ ] Créer une application multi-conteneurs

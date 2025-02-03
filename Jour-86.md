@@ -4,32 +4,32 @@
 
 ### Architecture N-Tiers et MVC - Introduction
 
-- [ ] Découverte de l'Architecture N-Tiers
-  - [ ] Comprendre le concept de découpage en couches
-  - [ ] Identifier les différentes couches
-    - [ ] Couche Présentation
-    - [ ] Couche Métier
-    - [ ] Couche Données
-  - [ ] Comprendre les avantages de cette architecture
-  - [ ] Identifier les cas d'usage
+- [x] Découverte de l'Architecture N-Tiers
+  - [x] Comprendre le concept de découpage en couches
+  - [x] Identifier les différentes couches
+    - [x] Couche Présentation
+    - [x] Couche Métier
+    - [x] Couche Données
+  - [x] Comprendre les avantages de cette architecture
+  - [x] Identifier les cas d'usage
 
-- [ ] Introduction au Pattern MVC
-  - [ ] Comprendre le rôle du Modèle
-    - [ ] Gestion des données
-    - [ ] Logique métier
-  - [ ] Comprendre le rôle de la Vue
-    - [ ] Interface utilisateur
-    - [ ] Présentation des données
-  - [ ] Comprendre le rôle du Contrôleur
-    - [ ] Gestion des requêtes
-    - [ ] Coordination Modèle-Vue
+- [x] Introduction au Pattern MVC
+  - [x] Comprendre le rôle du Modèle
+    - [x] Gestion des données
+    - [x] Logique métier
+  - [x] Comprendre le rôle de la Vue
+    - [x] Interface utilisateur
+    - [x] Présentation des données
+  - [x] Comprendre le rôle du Contrôleur
+    - [x] Gestion des requêtes
+    - [x] Coordination Modèle-Vue
 
-- [ ] Comparaison des Architectures
-  - [ ] Différences entre N-Tiers et MVC
-  - [ ] Avantages et inconvénients de chaque approche
-  - [ ] Cas d'utilisation appropriés
+- [x] Comparaison des Architectures
+  - [x] Différences entre N-Tiers et MVC
+  - [x] Avantages et inconvénients de chaque approche
+  - [x] Cas d'utilisation appropriés
 
-- [ ] Travaux Pratiques
+- [ ] Travaux Pratiques (brief)
   - [ ] Analyse d'applications existantes
   - [ ] Identification des patterns utilisés
   - [ ] Schématisation des architectures 

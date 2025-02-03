@@ -6,26 +6,26 @@
 
 Ressource : [Formation GitHub Actions](https://github.com/HachemiH/formation-github-actions)
 
-- [ ] Création de workflows
-  - [ ] Structure des fichiers YAML
-  - [ ] Syntaxe de base
-  - [ ] Emplacement des workflows
-  - [ ] Bonnes pratiques de nommage
+- [x] Création de workflows
+  - [x] Structure des fichiers YAML
+  - [x] Syntaxe de base
+  - [x] Emplacement des workflows
+  - [x] Bonnes pratiques de nommage
 
-- [ ] Configuration des déclencheurs
-  - [ ] Événements push et pull_request
-  - [ ] Événements planifiés (schedule)
-  - [ ] Événements manuels (workflow_dispatch)
-  - [ ] Filtres de branches et de tags
+- [x] Configuration des déclencheurs
+  - [x] Événements push et pull_request
+  - [x] Événements planifiés (schedule)
+  - [x] Événements manuels (workflow_dispatch)
+  - [x] Filtres de branches et de tags
 
-- [ ] Gestion des jobs
-  - [ ] Définition des runners
-  - [ ] Configuration de l'environnement
-  - [ ] Dépendances entre jobs
-  - [ ] Conditions d'exécution
+- [x] Gestion des jobs
+  - [x] Définition des runners
+  - [x] Configuration de l'environnement
+  - [x] Dépendances entre jobs
+  - [x] Conditions d'exécution
 
-- [ ] Travaux Pratiques
-  - [ ] Créer un workflow de base
-  - [ ] Tester différents déclencheurs
-  - [ ] Configurer des jobs en parallèle
-  - [ ] Gérer les dépendances entre jobs 
+- [x] Travaux Pratiques
+  - [x] Créer un workflow de base
+  - [x] Tester différents déclencheurs
+  - [x] Configurer des jobs en parallèle
+  - [x] Gérer les dépendances entre jobs 

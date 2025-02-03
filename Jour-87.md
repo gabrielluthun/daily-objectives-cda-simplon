@@ -4,19 +4,19 @@
 
 ### Travail en Autonomie - Projet Fil Rouge
 
-- [ ] Organisation du travail en groupe
-  - [ ] Répartition des tâches
-  - [ ] Définition des objectifs de la journée
-  - [ ] Planning des points d'avancement
+- [x] Organisation du travail en groupe
+  - [x] Répartition des tâches
+  - [x] Définition des objectifs de la journée
+  - [x] Planning des points d'avancement
 
-- [ ] Suivi et Communication
-  - [ ] Points d'avancement réguliers
-  - [ ] Identification des blocages
-  - [ ] Recherche de solutions
-  - [ ] Entraide entre équipes
+- [x] Suivi et Communication
+  - [x] Points d'avancement réguliers
+  - [x] Identification des blocages
+  - [x] Recherche de solutions
+  - [x] Entraide entre équipes
 
-- [ ] Préparation de la Présentation
-  - [ ] Documentation des avancées
-  - [ ] Préparation des démos
-  - [ ] Liste des points à aborder
-  - [ ] Questions/réponses 
+- [x] Préparation de la Présentation
+  - [x] Documentation des avancées
+  - [x] Préparation des démos
+  - [x] Liste des points à aborder
+  - [x] Questions/réponses 
