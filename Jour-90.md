@@ -4,20 +4,20 @@
 
 ### Tests Unitaires avec Vitest (TS/NestJS) et JUnit (Java)
 
-- [ ] Tests Unitaires avec Vitest
-  - [ ] Installation et configuration
-    - [ ] Configuration dans NestJS
-    - [ ] Configuration avec TypeScript
-  - [ ] Syntaxe de base
-    - [ ] describe et it/test
-    - [ ] expect et matchers
-    - [ ] beforeEach/afterEach
+- [x] Tests Unitaires avec Vitest
+  - [x] Installation et configuration
+    - [x] Configuration dans NestJS
+    - [x] Configuration avec TypeScript
+  - [x] Syntaxe de base
+    - [x] describe et it/test
+    - [] expect et matchers
+    - [] beforeEach/afterEach
   - [ ] Mocking avec Vitest
     - [ ] vi.mock()
     - [ ] vi.spyOn()
     - [ ] Mock des dépendances
 
-- [ ] Tests Unitaires avec JUnit
+- [ ] Tests Unitaires avec JUnit  
   - [ ] Installation et configuration
   - [ ] Annotations de base
     - [ ] @Test

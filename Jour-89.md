@@ -4,33 +4,34 @@
 
 ### Introduction aux Tests Logiciels
 
-- [ ] Comprendre les fondamentaux des tests
-  - [ ] Découverte du vocabulaire des tests
-    - [ ] Test Fixture
-    - [ ] Test Suite
-    - [ ] Test Case
-    - [ ] System Under Test (SUT)
-    - [ ] Test Runner
-    - [ ] Assertions
-    - [ ] Mocks, Stubs, Spies
+- [x] Comprendre les fondamentaux des tests
+  - [x] Découverte du vocabulaire des tests
+    - [x] Test Fixture
+    - [x] Test Suite
+    - [x] Test Case
+    - [x] System Under Test (SUT)
+    - [x] Test Runner
+    - [x] Assertions
+    - [x] Mocks, Stubs, Spies
 
-- [ ] Les différents types de tests
-  - [ ] Tests Unitaires
-    - [ ] Définition et objectifs
-    - [ ] Principes FIRST (Fast, Isolated, Repeatable, Self-validating, Timely)
-    - [ ] Cas d'usage
-  - [ ] Tests d'Intégration
-    - [ ] Définition et objectifs
-    - [ ] Différence avec les tests unitaires
-    - [ ] Cas d'usage
-  - [ ] Tests End-to-End (E2E)
-    - [ ] Définition et objectifs
-    - [ ] Pyramide des tests
-    - [ ] Cas d'usage
+- [x] Les différents types de tests
+  - [x] Tests Unitaires
+    - [x] Définition et objectifs
+    - [x] Principes FIRST (Fast, Isolated, Repeatable, Self-validating, Timely)
+    - [x] Cas d'usage
+  - [x] Tests d'Intégration
+    - [x] Définition et objectifs
+    - [x] Différence avec les tests unitaires
+    - [x] Cas d'usage
+  - [x] Tests End-to-End (E2E)
+    - [x] Définition et objectifs
+    - [x] Pyramide des tests
+    - [x] Cas d'usage
 
-- [ ] Bonnes pratiques des tests
-  - [ ] Convention de nommage
-  - [ ] Structure des tests (Arrange-Act-Assert / Given-When-Then)
-  - [ ] Tests isolés et indépendants
-  - [ ] Couverture de code
-  - [ ] Documentation des tests 
+- [x] Bonnes pratiques des tests
+  - [x] Convention de nommage
+  - [x] Structure des tests (Arrange-Act-Assert / Given-When-Then)
+  - [x] Tests isolés et indépendants
+  - [x] Couverture de code
+  - [x] Documentation des tests
+  
